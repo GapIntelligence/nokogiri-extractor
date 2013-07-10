@@ -1,0 +1,6 @@
+=== 1.0.0 / 2013-07-10
+
+* Extractor Extracted
+
+  * Nokogiri Decorator for extract method
+
