@@ -9,7 +9,7 @@ their attributes
 
 == SYNOPSIS:
 
-  require 'nokogiri-extractor'
+  require 'nokogiri/extractor'
   doc = Nokogiri::XML.parse('<this is="cool">that</this>')
   doc.extractor!
 
